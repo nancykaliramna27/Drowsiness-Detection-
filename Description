@@ -1,0 +1,3 @@
+ Developed a drowsiness detection system that monitors driver alertness in real-time to enhance road safety.
+The system uses computer vision and machine learning to detect signs of driver fatigue and issue timely alerts
+Technology used : Python | Convolutional neural network |  OpenCV | Tensor Flow | Keras
